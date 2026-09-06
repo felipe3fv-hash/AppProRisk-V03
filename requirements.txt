@@ -1,0 +1,5 @@
+# Dependências de execução. Community Cloud instala EXATAMENTE este arquivo.
+# Versões fixadas de propósito: um laudo assinado precisa ser reproduzível.
+streamlit==1.41.1
+pandas==2.2.3
+reportlab==4.2.5
